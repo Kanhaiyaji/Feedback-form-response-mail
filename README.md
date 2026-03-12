@@ -3,7 +3,7 @@
 This project includes a modern feedback form with EmailJS automation.
 
 When a user submits the form, emails are sent to:
-- Owner: kanhaiya***************@*******
+- Owner: kanhaiya.jha125390@marwadiuniversity.ac.in
 - User: email entered in the form
 
 ## Setup
@@ -60,11 +60,4 @@ Rating: {{rating}}
 Type: {{user_type}}
 Feedback: {{feedback}}
 Submitted At: {{submitted_at}}
-```
-FOR CHANGES
-```
-git add .
-git commit -m "your message"
-git push
-
 ```
