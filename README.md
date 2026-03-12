@@ -3,7 +3,7 @@
 This project includes a modern feedback form with EmailJS automation.
 
 When a user submits the form, emails are sent to:
-- Owner: kanhaiya.jha125390@marwadiuniversity.ac.in
+- Owner: kanhaiya***************@*******
 - User: email entered in the form
 
 ## Setup
