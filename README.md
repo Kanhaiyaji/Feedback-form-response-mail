@@ -61,3 +61,10 @@ Type: {{user_type}}
 Feedback: {{feedback}}
 Submitted At: {{submitted_at}}
 ```
+FOR CHANGES
+```
+git add .
+git commit -m "your message"
+git push
+
+```
